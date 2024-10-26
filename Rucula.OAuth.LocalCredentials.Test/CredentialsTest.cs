@@ -7,7 +7,7 @@ using Rucula.OAuth.LocalCredentials.WebApi;
 namespace Rucula.OAuth.LocalCredentials.Test;
 
 [TestClass]
-public class UnitTest1
+public class CredentialsTest
 {
     [TestMethod]
     public async Task TestMethod1()
